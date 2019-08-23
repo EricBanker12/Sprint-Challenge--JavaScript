@@ -44,7 +44,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
    1. Outside other cases, the default value `this` is the global/window object.
 
-   2. If invoked as a method of an object, `obj.method()`, `this` refers to the object (left to the `.`).
+   2. If invoked as a method of an object (`obj.method()`), `this` refers to the object (left of the `.`).
 
    3. When using the `new` keyword on a constructor function, `this` refers to the new object being returned.
 
@@ -69,9 +69,9 @@ Follow these steps to set up and work on your project:
 
 Follow these steps for completing your project:
 
-- [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your team lead as a Reviewer on the Pull-request
-- [ ] TL then will count the HW as done by  merging the branch back into master.
+- [x] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
+- [x] Add your team lead as a Reviewer on the Pull-request
+- [x] TL then will count the HW as done by  merging the branch back into master.
 
 
 ## Minimum Viable Product
